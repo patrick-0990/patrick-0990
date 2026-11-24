@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/patrick-0990/patrick-0990/blob/main/README.md">🇧🇷 Leia em português</a>
+  <a href="https://github.com/patrick-0990/patrick-0990/blob/main/README.pt.md">🇧🇷 Leia em português</a>
 </p>
 
 ---
