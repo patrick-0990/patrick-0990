@@ -100,12 +100,4 @@ To solve it, I built an internal relational structure from scratch to store this
 
 ---
 
-## Featured project
-
-| Project | Description | Stack |
-|---|---|---|
-| [ETL-Pipeline-ERP-Database-Manager](https://github.com/patrick-0990/ETL-Pipeline-ERP-Database-Manager) | ETL pipeline in pure Python that migrates legacy ERP data (CSV) into a relational database, with data cleaning and referential integrity | Python · SQLite |
-
----
-
 <p align="center"><i>Thanks for reading this far!</i></p>
